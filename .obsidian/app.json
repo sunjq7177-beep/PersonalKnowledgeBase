@@ -1,0 +1,9 @@
+{
+  "theme": "system",
+  "showInlineTitle": true,
+  "newFileLocation": "current",
+  "defaultDateFormat": "YYYY-MM-DD",
+  "defaultTimeFormat": "HH:mm",
+  "vaultSize": 0,
+  "syncStatus": "off"
+}
