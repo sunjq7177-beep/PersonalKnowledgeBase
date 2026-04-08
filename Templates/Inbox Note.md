@@ -1,8 +1,8 @@
 ---
 created: {{date}}
-source:  #来源
-tags: #
-status: #待整理
+source: ""
+tags: []
+status: 待整理
 ---
 
 # {{title}}
@@ -22,4 +22,3 @@ status: #待整理
 ## 待办事项
 
 - [ ]
-
